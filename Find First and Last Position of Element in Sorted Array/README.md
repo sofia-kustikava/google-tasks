@@ -7,5 +7,6 @@ You must write an algorithm with O(log n) runtime complexity.
 Example 1:
 ____
 Input: nums = [5,7,7,8,8,10], target = 8
+
 Output: [3,4]
 ____
